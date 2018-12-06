@@ -1,0 +1,14 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+GC.target-geo-id,Target Geo Id
+GC.target-geo-id2,Target Geo Id2
+GC.display-label,Geography,GC.display-label
+resbase42010,"Population Estimate - April 1, 2010 Estimates Base"
+respop72017,"Population Estimate - July 1, 2017"
+numdiff20102017,"Change, 2010 to 2017 - Number"
+percdiff20102017,"Change, 2010 to 2017 - Percent [1]"
+rank42010,"Rankings - Population Estimate - April 1, 2010 Estimates Base"
+rank72017,"Rankings - Population Estimate - July 1, 2017"
+numrank20102017,"Rankings - Change, 2010 to 2017 - Number"
+percrank20102017,"Rankings - Change, 2010 to 2017 - Percent"
